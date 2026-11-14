@@ -1,4 +1,5 @@
-# Mondrian Latex Presentation 🎨📊
+# Mondrian: Professional LaTeX Presentation Template 🎨
+
 ### A Minimalist LaTeX Beamer Template Inspired by Piet Mondrian
 
 <img width="1148" height="648" alt="image" src="https://github.com/user-attachments/assets/0154cd75-48be-4d18-bceb-881dca25c370" />
